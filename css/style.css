@@ -1,0 +1,56 @@
+#box1{
+    border-style: solid;
+    border-width: 5px;
+}
+
+#education{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 30px;
+}
+
+#objective{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 30px;
+}
+
+#experience{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 30px;
+}
+
+#interests{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 30px;
+}
+
+#myFace{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 30px;
+}
+
+img{
+    max-width: 30%;
+}
+
+#face{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 30px;
+}
+
+#name{
+    text-align: center;
+}
+
+#info{
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
